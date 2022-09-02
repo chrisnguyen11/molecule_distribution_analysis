@@ -17,7 +17,7 @@ About:
 Summary.pdf - explains score and MoleculeDistributionBySigfinicance.png plot 
 
 Testing:
-GenergateTestData.py - Script that creates the csv file test_data.csv.
+GenerateTestData.py - Script that creates the csv file test_data.csv.
 
 test_data.csv - csv file that contains sample data that can be processed 
 as the Molecules_dist_JD.csv. M-000 is normally distributed. M-001 has a 
