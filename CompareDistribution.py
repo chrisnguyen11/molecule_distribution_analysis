@@ -63,4 +63,4 @@ for count, score in enumerate(['Score']+rank['score'].to_list()):
     plt.annotate(score,(count,10),bbox=dict(boxstyle="round", fc="w"))
 
 
-plt.savefig('MoleculeDistributionBySigfinicance.png',bbox_inches='tight')
+plt.savefig('MoleculeDistributionByScore.png',bbox_inches='tight')
