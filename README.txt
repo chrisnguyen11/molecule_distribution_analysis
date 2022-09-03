@@ -7,7 +7,7 @@ python CompareDistribution.py Molecules_dist_JD.csv
 Output:
 NegativeControlDistribution.png - png of M-000 histogram.
 
-MoleculeDistributionBySigfinicance.png - png of molecules distribution 
+MoleculeDistributionBySignificance.png - png of molecules distribution 
 scored by score. 
 
 MoleculeRank.csv - csv file that contains a dataframe of molecules ranked 
